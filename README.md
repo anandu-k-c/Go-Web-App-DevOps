@@ -17,7 +17,7 @@ Key Highlights:
 	2) CI/CD Pipeline Automation:
  
 	•	Integrated GitHub Actions for continuous integration and deployment, automating code builds, testing, and pushing Docker images to Docker Hub.
-	•	Configured ArgoCD for continuous delivery, ensuring automated deployment of new application versions to the EKS cluster, while providing GitOps-style version control.
+	•	Implemented GitOps based tool ArgoCD for continuous delivery, ensuring automated deployment of new application versions to the EKS cluster.
  
 	3) Containerization:
  
